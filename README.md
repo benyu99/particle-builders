@@ -34,7 +34,7 @@ Meet the Team behind Particle Builder:
   [Brief introduction about the team member.]
 - **Theirry Panggabean (Nicole) - u7697840**: <br />
   <img src="nicole-photo.jpg" alt="Nicole" width="100">
-  [Brief introduction about the team member.]
+  Transfer student from Indonesia with a strong affinity for data, statistics and caffeine. Familiar with Python, Java, and a few others, but extremely enthused to get started with game development!
 - **Jiacheng She (Tom) - u7020668**: <br />
   <img src="tom-photo.jpg" alt="Tom" width="100">
   [Brief introduction about the team member.]
