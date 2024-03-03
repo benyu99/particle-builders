@@ -25,7 +25,7 @@ Meet the Team behind Particle Builder:
 ### Meet the Tech Launcher Team
 - **Amy McWilliams - u7253495**: <br />
   <img src="amy-photo.png" alt="Amy" width="100">
-  [Brief introduction about the team member.]
+  Spokesperson. B Software Engineering (Hons)/ B Arts (Linguistics). Experienced in app/ web development, database management and project management. Volunteer STEM teacher. 
 - **Andrew Carse - u6666440**: <br />
   <img src="andrew-photo.jpg" alt="Andrew" width="100">
   [Brief introduction about the team member.]
@@ -40,7 +40,7 @@ Meet the Team behind Particle Builder:
   [Brief introduction about the team member.]
 - **Zilun Wei (Waylon) - u7220282**: <br />
   <img src="waylon-photo.jpg" alt="Waylon" width="100">
-  [Brief introduction about the team member.]
+  Spokesperson. Loves developing games. VR/AR enthusiast. Very familiar with Unity and C#. Likes to learn and practice project management as well.
 - **Yeming Chen - u7573153**: <br />
   <img src="yeming-photo.jpg" alt="Yeming" width="100">
   [Brief introduction about the team member.]
