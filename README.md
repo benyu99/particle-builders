@@ -31,7 +31,7 @@ Meet the Team behind Particle Builder:
   [Brief introduction about the team member.]
 - **Mohammad Attar (Attar) - u7697826**:<br />
   <img src="attar-photo.jpg" alt="Attar" width="100">
-  [Brief introduction about the team member.]
+  A BAC student at ANU who's had the chance to work on basic projects on website and app development, but not on game development, yet. Excited to partake in this new endeavour, especially given my love for board games.
 - **Theirry Panggabean (Nicole) - u7697840**: <br />
   <img src="nicole-photo.jpg" alt="Nicole" width="100">
   Transfer student from Indonesia with a strong affinity for data, statistics and caffeine. Familiar with Python, Java, and a few others, but extremely enthused to get started with game development!
