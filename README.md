@@ -43,7 +43,7 @@ Meet the Team behind Particle Builder:
   Spokesperson. Loves developing games. VR/AR enthusiast. Very familiar with Unity and C#. Likes to learn and practice project management as well.
 - **Yeming Chen - u7573153**: <br />
   <img src="yeming-photo.jpg" alt="Yeming" width="100">
-  [Brief introduction about the team member.]
+  I'm a current Master of Computing student at ANU, with a background in Mathematics and Statistics from the University of Toronto. Skilled in Java, Python and HTML. I'm also excited to explore game development using Unity.
 
 ## 🔗 Guide to Key Links
 Make sure to check out these essential links:
