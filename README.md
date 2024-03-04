@@ -20,14 +20,14 @@ Our goal is to streamline the Particle Builder experience by bringing it online.
 Meet the Team behind Particle Builder:
 
 - **Lachlan McGinness - Client**: <br />
-  [Brief introduction about the team member.]
+ PhD Candidate in AI at CSIRO and ANU | Director of Australian Physics Olympiad | Physics Educator
 
 ### Meet the Tech Launcher Team
 - **Amy McWilliams - u7253495**: <br />
   <img src="amy-photo.png" alt="Amy" width="100">
   Spokesperson. B Software Engineering (Hons)/ B Arts (Linguistics). Experienced in app/ web development, database management and project management. Volunteer STEM teacher. 
 - **Andrew Carse - u6666440**: <br />
-  <img src="andrew-photo.jpg" alt="Andrew" width="100">
+  <img src="andrew-photo.JPG" alt="Andrew" width="100">
   [Brief introduction about the team member.]
 - **Mohammad Attar (Attar) - u7697826**:<br />
   <img src="attar-photo.jpg" alt="Attar" width="100">
