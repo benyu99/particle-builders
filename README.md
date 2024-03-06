@@ -28,7 +28,7 @@ Meet the Team behind Particle Builder:
   Spokesperson. B Software Engineering (Hons)/ B Arts (Linguistics). Experienced in app/ web development, database management and project management. Volunteer STEM teacher. 
 - **Andrew Carse - u6666440**: <br />
   <img src="andrew-photo.JPG" alt="Andrew" width="100">
-  [Brief introduction about the team member.]
+  I’m an innovative programmer and technologist with an interest in Cybersecurity, Machine Learning, and App Development. I’d like to continue to develop my career in either of these fields.
 - **Mohammad Attar (Attar) - u7697826**:<br />
   <img src="attar-photo.jpg" alt="Attar" width="100">
   A BAC student at ANU who's had the chance to work on basic projects on website and app development, but not on game development, yet. Excited to partake in this new endeavour, especially given my love for board games.
